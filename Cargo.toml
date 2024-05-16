@@ -1,0 +1,9 @@
+[package]
+name = "horrors"
+version = "0.1.0"
+edition = "2021"
+description = "Your worst nightmare"
+authors = ["Adrian Wowk <dev@adrianwowk.com>"]
+license = "MIT"
+
+[dependencies]
